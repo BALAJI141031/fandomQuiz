@@ -1,2 +1,2 @@
 # fandomQuiz
- genral quiz
+ genralQuiz
