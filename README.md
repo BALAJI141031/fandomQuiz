@@ -1,3 +1,3 @@
 # fandomQuiz
  genralQuiz about india
- let know how much we know about india
+ lets know how much we know about india
